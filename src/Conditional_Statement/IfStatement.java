@@ -10,6 +10,7 @@ public class IfStatement {
 
         System.out.println("Set speed limit: ");
         int limit = scan.nextInt();
+
         System.out.println("Give current speed: ");
         int speed = scan.nextInt();
 
