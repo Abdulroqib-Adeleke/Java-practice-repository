@@ -18,5 +18,6 @@ public class ASimpleCalculator {
         System.out.println(first + " * " + second + " = " + (first * second));
         System.out.println(first + " / " + second + " = " + (1.0 * first / second));
 
+        scanner.close();
     }
 }
