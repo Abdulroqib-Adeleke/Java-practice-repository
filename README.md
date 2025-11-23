@@ -1,6 +1,6 @@
 # ☕ Core Java Practice & Progress Repository
 
-![Java](https://img.shields.io/badge/Java-17+-red?logo=java)
+![Java](https://img.shields.io/badge/Java-11+-red?logo=java)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Made With Love](https://img.shields.io/badge/Made%20With-❤-purple)
