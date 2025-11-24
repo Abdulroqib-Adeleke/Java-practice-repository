@@ -23,5 +23,7 @@ public class TempsConversion {
         fahren = scan.nextDouble();
         double resultF = (fahren - 32) * 5/9;
         System.out.println(resultF + " celsius");
+
+        scan.close();
     }
 }
