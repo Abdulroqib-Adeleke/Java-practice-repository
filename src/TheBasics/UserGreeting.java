@@ -2,7 +2,7 @@ package TheBasics;
 
 import java.util.Scanner;
 
-public class UserGreating {
+public class UserGreeting {
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
@@ -11,5 +11,7 @@ public class UserGreating {
         String name = scan.nextLine();
 
         System.out.println("Hello " + name);
+
+        scan.close();
     }
 }

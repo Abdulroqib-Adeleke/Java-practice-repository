@@ -12,5 +12,6 @@ public class SecondsInADay {
         days = days * (60*60*24);
         System.out.println(days);
 
+        scanner.close();
     }
 }

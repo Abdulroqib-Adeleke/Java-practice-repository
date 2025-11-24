@@ -21,5 +21,7 @@ public class SwappingVariables {
         System.out.println("------");
         System.out.println("Swapped");
         System.out.println("The numbers are: \nFirst: " + first +"\nSecond: " + second);
+
+        scan.close();
     }
 }
