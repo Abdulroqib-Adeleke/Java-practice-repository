@@ -1,9 +1,9 @@
-package LoopsAndSwitch;
+package Loops;
 
 import java.util.Scanner;
 
-public class WhileLoop {
-    public static void main(String[] args){
+public class LoopCalculator {
+    public static void main(String[] args) {
 
 
         Scanner scan = new Scanner(System.in);
@@ -12,17 +12,17 @@ public class WhileLoop {
 
         System.out.println("Commands: \nStart \nEnd");
 
-        while(true){
+        while (true) {
 
             System.out.println("Enter command:");
             String command = scan.nextLine();
 
-            if(command.equals("End")){
+            if (command.equals("End")) {
                 System.out.println("Bye");
                 break;
             }
-            if(command.equals("Start")) {
-                System.out.println("Available operation: \nAdd \nSubtract \nMultiply " +
+            if (command.equals("Start")) {
+                System.out.println("Available operation: \nAdd \nSubtract \nMultiply \nDivision" +
                         "\nWhat operation are you performing?");
                 String input = scan.nextLine();
 
@@ -53,6 +53,15 @@ public class WhileLoop {
 
                     int result = first * second;
                     System.out.println(first + " * " + second + " = " + result);
+                } else if (input.equals("Division")) {
+                    System.out.println("Enter first number");
+                    first = scan.nextInt();
+
+                    System.out.println("Enter second number");
+                    second = scan.nextInt();
+
+                    int result = first / second;
+                    System.out.println(first + " / " + second + " = " + result);
                 }
             }
         }
