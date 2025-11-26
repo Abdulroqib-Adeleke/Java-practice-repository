@@ -1,4 +1,4 @@
-package LoopsAndSwitch;
+package Loops;
 
 import java.util.Scanner;
 
