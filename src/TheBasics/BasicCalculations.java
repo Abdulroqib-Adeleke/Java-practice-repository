@@ -2,7 +2,7 @@ package TheBasics;
 
 import java.util.Scanner;
 
-public class ASimpleCalculator {
+public class BasicCalculations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
