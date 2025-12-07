@@ -11,7 +11,11 @@ public class VowelOrConsonant {
         char myChar = scan.nextLine().charAt(0);
 
         switch (myChar){
-            case 'a', 'e', 'i', 'u', 'o':
+            case 'a':
+            case 'e':
+            case 'i':
+            case 'o':
+            case 'u':
                 System.out.println(myChar + " is a vowel");
                 break;
             default:
