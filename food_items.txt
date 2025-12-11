@@ -1,20 +1,20 @@
-Burger - $5.99
-Fries - $2.49 
-Soda - $1.50
-Pizza - $8.99
-Sandwich - $4.50
-Salad - $3.99
-Hot Dog - $2.99
-Chicken Wrap - $6.25
-Pasta - $7.49
-Tacos - $3.75
-IceCream - $2.25
-Coffee - $1.99
-Tea - $1.50
-Donut - $1.25
-Cake Slice - $3.50
-Steak - $12.99
-Rice Bowl - $5.75
-Smoothie - $4.99
-Soup - $3.25
-Pancakes - $4.75
+Burger 5.99
+Fries 2.49
+Soda 1.50
+Pizza 8.99
+Sandwich 4.50
+Salad 3.99
+HotDog 2.99
+ChickenWrap 6.25
+Pasta 7.49
+Tacos 3.75
+IceCream 2.25
+Coffee 1.99
+Tea 1.50
+Donut 1.25
+CakeSlice 3.50
+Steak 12.99
+RiceBowl 5.75
+Smoothie 4.99
+Soup 3.25
+Pancakes 4.75
