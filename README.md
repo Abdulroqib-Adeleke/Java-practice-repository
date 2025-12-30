@@ -55,8 +55,8 @@ This repo showcases my hands-on learning experience as I progress through Core J
 | 🔄 In Progress | Java Fundamentals |
 | 🔄 In Progress | Control Flow & Loops |
 | 🔄 In Progress | OOP Principles |
-| ⏳ Upcoming | Collections & Generics |
-| ⏳ Upcoming | Streams & Lambda Expressions |
+| 🔄 In Progress | Collections & Generics |
+| 🔄 In Progress | Streams & Lambda Expressions |
 | ⏳ Upcoming | File Handling & Serialization |
 | ⏳ Upcoming | Multithreading & Concurrency |
 
