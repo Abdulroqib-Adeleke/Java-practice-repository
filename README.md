@@ -73,6 +73,7 @@ Feel free to fork the repo, open issues, or submit PRs.
 
 - **GitHub:** `https://github.com/Abdulroqib-Adeleke`
 - **X:** `https://x.com/posytweets`
+- **LinkedIn:** `www.linkedin.com/in/abdulroqib-adeleke`
 
 ---
 
