@@ -1,4 +1,4 @@
-package TheBasics;
+package Fundamentals;
 
 
 import java.nio.file.Paths;
