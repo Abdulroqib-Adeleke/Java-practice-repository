@@ -1,4 +1,5 @@
-package TheBasics;
+package Fundamentals;
+
 import java.util.Scanner;
 
 public class SecondsInADay {
